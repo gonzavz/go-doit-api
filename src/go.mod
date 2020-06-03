@@ -1,4 +1,4 @@
-module github.com/gonzavz/go-doit-api
+module github.com/gonzavz/go-doit-api/src
 
 go 1.14
 
